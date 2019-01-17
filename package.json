@@ -1,0 +1,21 @@
+{
+  "name": "ts-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "npx typescript -b tsconfig.json",
+    "watch": "npx typescript -b tsconfig.json -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jquery": "^3.3.29",
+    "@types/knockout": "^3.4.63",
+    "@types/underscore": "^1.8.9",
+    "jquery": "^3.3.1",
+    "knockout": "^3.4.2",
+    "typescript": "^3.2.2",
+    "underscore": "^1.9.1"
+  }
+}
