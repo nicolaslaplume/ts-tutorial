@@ -1,14 +1,17 @@
-To install:
+**To install:**
+
     npm install
         or
     yarn
 
-To Compile once
+**To Compile once**
+
     npm run compile
         or
     yarn compile
 
-To Watch changes
+**To Watch changes**
+
     npm run watch
         or
     yarn watch
